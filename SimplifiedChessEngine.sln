@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifiedChessEngine", "SimplifiedChessEngine\SimplifiedChessEngine.csproj", "{F6583661-02F5-4A42-9142-6BAB72FEEE37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifiedChessEnginev2", "SimplifiedChessEnginev2\SimplifiedChessEnginev2.csproj", "{84029C5F-550F-4069-8C85-31240FEDC44E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6583661-02F5-4A42-9142-6BAB72FEEE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6583661-02F5-4A42-9142-6BAB72FEEE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6583661-02F5-4A42-9142-6BAB72FEEE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6583661-02F5-4A42-9142-6BAB72FEEE37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84029C5F-550F-4069-8C85-31240FEDC44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84029C5F-550F-4069-8C85-31240FEDC44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84029C5F-550F-4069-8C85-31240FEDC44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84029C5F-550F-4069-8C85-31240FEDC44E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
